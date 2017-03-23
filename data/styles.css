@@ -1,0 +1,132 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.ellipse {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.line {
+}
+.text_field {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+  font-size:12px;
+  color:#999999;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+._连接线 {
+}
+.sticky_1 {
+  text-align:left;
+}
+._流程形状 {
+}
+.icon {
+}
+._文字链接 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#169BD5;
+  text-align:left;
+}
+._按钮01 {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+.box_2 {
+}
+.box_3 {
+}
+._标题框 {
+}
+.flow_shape {
+}
+._图片 {
+  color:#000000;
+}
